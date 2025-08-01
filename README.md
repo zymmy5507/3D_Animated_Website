@@ -1,8 +1,8 @@
-# Zelt HR Platform Website
+# 3D Animated Website
 
 A modern, responsive landing page for Zelt - a next-generation HR platform that combines HR, IT, and Finance operations in one place. This project features smooth scrolling animations, interactive elements, and a professional design that showcases the platform's capabilities.
 
-## 🚀 Features
+##  Features
 
 - **Smooth Scrolling**: Implemented using Locomotive Scroll for seamless navigation
 - **Interactive Animations**: GSAP-powered animations with ScrollTrigger for engaging user experience
@@ -11,7 +11,7 @@ A modern, responsive landing page for Zelt - a next-generation HR platform that 
 - **Canvas Animations**: Dynamic canvas-based hero section with image sequences
 - **Professional UI**: Clean, modern design with proper spacing and typography
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**: Semantic markup structure
 - **CSS3**: Modern styling with flexbox and responsive design
@@ -20,10 +20,10 @@ A modern, responsive landing page for Zelt - a next-generation HR platform that 
 - **Locomotive Scroll**: Smooth scrolling implementation
 - **Canvas API**: Dynamic image rendering and animations
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
-Zelt-main/
+3D_Animated_Website/
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styles and responsive design
 ├── script.js           # JavaScript functionality and animations
@@ -33,7 +33,7 @@ Zelt-main/
 └── README.md           # Project documentation
 ```
 
-## 🎯 Key Sections
+##  Key Sections
 
 ### 1. Hero Section
 - Animated canvas background with image sequences
@@ -55,7 +55,7 @@ Zelt-main/
 - Enabling capabilities
 - Simple user interface
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
@@ -78,7 +78,7 @@ Zelt-main/
    - Experience the interactive animations
    - Watch the embedded video content
 
-## 🎨 Design Features
+##  Design Features
 
 - **Typography**: Clean, modern font hierarchy
 - **Color Scheme**: Professional palette with subtle gradients
@@ -86,7 +86,7 @@ Zelt-main/
 - **Animations**: Smooth transitions and scroll-triggered effects
 - **Responsive**: Mobile-friendly design considerations
 
-## 📱 Browser Compatibility
+##  Browser Compatibility
 
 - Chrome (recommended)
 - Firefox
@@ -94,7 +94,7 @@ Zelt-main/
 - Edge
 - Mobile browsers
 
-## 🔧 Customization
+##  Customization
 
 ### Modifying Content
 - Update text content in `index.html`
@@ -111,11 +111,11 @@ Zelt-main/
 - Adjust GSAP timelines and ScrollTrigger settings
 - Update canvas animations as needed
 
-## 📄 License
+##  License
 
 This project is for educational and demonstration purposes. Please ensure you have proper licensing for any commercial use of the design or content.
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the project
 2. Create a feature branch
@@ -123,10 +123,10 @@ This project is for educational and demonstration purposes. Please ensure you ha
 4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Support
+##  Support
 
 For questions or support regarding this project, please refer to the project documentation or create an issue in the repository.
 
 ---
 
-**Note**: This is a demonstration website showcasing modern web development techniques and should not be used for commercial purposes without proper licensing and permissions. 
+**Note**: This is a demonstration website showcasing modern web development techniques and should not be used for commercial purposes without proper licensing and permissions.
